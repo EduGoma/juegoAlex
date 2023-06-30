@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d20a60537ddad949a291ebe28eb46c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Arco: {instanceID: 0}
+  - Pistola: {instanceID: 0}
+  - Flecha: {instanceID: 0}
+  - GranadadeHumo: {instanceID: 0}
+  - "GranadadeFragmentaci\xF3n": {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
